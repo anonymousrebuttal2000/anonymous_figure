@@ -1,3 +1,3 @@
 # anonymous figure for rebuttal
 
-[Additional Figures PDF](./Additional_Experiments.pdf)
+![Figure 1](./Additional_Experiments.png)
